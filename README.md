@@ -7,6 +7,7 @@ The configuration of the split boards includes the definition of a dongle that c
 
 ## Modules
 
+
 Additional features are provided by the following [modules](https://zmk.dev/docs/features/modules):
 
 - [**zmk-antecedent-morph**](https://github.com/ssbb/zmk-antecedent-morph) to change the behavior of a key based on the previously pressed key. This is used to type `<=`, `>=`, `!=`, `=>`, `->`, `|>`, `./` and `#include ` more comfortably.  
