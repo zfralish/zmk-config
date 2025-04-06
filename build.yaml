@@ -74,7 +74,7 @@ include:
     artifact-name: rommana_central_left_with_logging
 
   # sweep
-  - board: seeeduino_xiao_ble
+  - board: nice_nano_v2
     shield: sweep_dongle dongle_display
     snippet: common-config studio-rpc-usb-uart
     artifact-name: sweep_dongle
